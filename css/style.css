@@ -1,0 +1,29 @@
+body {
+    background-color: #cbe6fd !important; 
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #1a1a1a !important; 
+}
+
+.title {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #444444;
+}
+
+#quote {
+    font-size: 35px;
+    font-family: 'Georgia', serif;
+    color: #111111;
+    font-style: italic;
+}
+
+#author {
+    font-size: 35px;
+    font-family: 'Georgia', serif;
+    color: #555555 !important;
+    margin-top: -5px;
+}
